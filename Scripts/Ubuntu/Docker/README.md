@@ -15,7 +15,7 @@ This repository contains a Bash script to install Docker and its dependencies on
 ### 1. Download the Script
 
 ```bash
-curl -O [https://raw.githubusercontent.com/msolimantech1/open-source-projects/mmaster/Scripts/Ubuntu/Docker/install_docker.sh](https://github.com/msolimantech1/open-source-projects/raw/refs/heads/master/Scripts/Ubuntu/Docker/install_docker.sh)
+curl -O https://github.com/msolimantech1/open-source-projects/raw/refs/heads/master/Scripts/Ubuntu/Docker/install_docker.sh
 ```
 
 ### 2. Make the Script Executable
